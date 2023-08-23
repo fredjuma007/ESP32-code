@@ -12,10 +12,10 @@ PASSWORD = "your_PASSWORD"
 # Email configuration
 EMAIL_HOST = "smtp.gmail.com"  #server address
 EMAIL_PORT = 465  #server port
-EMAIL_USER = "kyalotourney@gmail.com"
+EMAIL_USER = "....@gmail.com"
 EMAIL_PASSWORD = "your_email_password"
-EMAIL_FROM = "kyalotorney@gmail.com"
-EMAIL_TO = "kyalotourney@gmail.com"
+EMAIL_FROM = "......@gmail.com"
+EMAIL_TO = "......@gmail.com"
 EMAIL_SUBJECT = "Motion Detected!"
 
 # Motion detection settings
